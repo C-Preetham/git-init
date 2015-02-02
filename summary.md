@@ -2,17 +2,16 @@
 Git Summary
 
 
-Install Git From: [http://git-scm.com/downloads]
+Download & Install Git From: http://git-scm.com/downloads
 
 # Configuring Git Settings (Intial Setup) 
------------------------------------------------------
+
 `git config —global user.email "you@example.com"`
 
 `git config —global user.name "your-name"`
 
 
 # Making Repos
--------------------
 
 `git init`
 
@@ -22,7 +21,7 @@ Install Git From: [http://git-scm.com/downloads]
 
 
 # Making Changes
---------------------------
+
 `git status`
 
 `git add .`
@@ -33,7 +32,6 @@ Install Git From: [http://git-scm.com/downloads]
 
 
 # Adding Remote 
--------------------------
 
 `git remote add origin https://github.com/user/repo.git`
 
@@ -43,7 +41,6 @@ Install Git From: [http://git-scm.com/downloads]
 
 
 # Pushing Repo Code
---------------------------
 
 `git rm -r —cached .`
 
@@ -54,7 +51,6 @@ Install Git From: [http://git-scm.com/downloads]
 
 
 # Checking Configration
---------------------------
 
 `git config user.name`
 
@@ -62,7 +58,6 @@ Install Git From: [http://git-scm.com/downloads]
 
 
 # Fetching and Pull
------------------------------------
 
 `git fetch`
 
