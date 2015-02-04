@@ -1,5 +1,5 @@
 
-Git Summary
+Git Chest
 
 
 Download & Install Git From: http://git-scm.com/downloads
@@ -11,13 +11,20 @@ Download & Install Git From: http://git-scm.com/downloads
 `git config —global user.name "your-name"`
 
 
+# Checking Configuration
+
+`git config user.name`
+
+`git config user.email`
+
+
 # Making Repos
 
 `git init`
 
-`git init [name]`
+`git init <name>`
 
-`git clone [url]`
+`git clone <url>`
 
 
 # Making Changes
@@ -28,7 +35,7 @@ Download & Install Git From: http://git-scm.com/downloads
 
 `git add --all`
 
-`git commit -m "fixed untracked files”`
+`git commit -m "Commit Message"`
 
 
 # Adding Remote 
@@ -42,19 +49,15 @@ Download & Install Git From: http://git-scm.com/downloads
 
 # Pushing Repo Code
 
-`git rm -r —cached .`
 
 `git push -f`
 
 `git push origin master `
 
 
+# Removing Cached Files from the Git Staging 
 
-# Checking Configration
-
-`git config user.name`
-
-`git config user.email`
+`git rm -r —cached .`
 
 
 # Fetching and Pull
