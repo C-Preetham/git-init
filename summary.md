@@ -67,5 +67,14 @@ Download & Install Git From: http://git-scm.com/downloads
 `git pull `
 
 
+# Changing Commit Message
+
+`git commit --amend -m "New commit message"`
+
+# Remove or Undo Last Commit
+
+`git reset --soft HEAD~1`
+
+
 
 
