@@ -75,6 +75,21 @@ Download & Install Git From: http://git-scm.com/downloads
 
 `git reset --soft HEAD~1`
 
+`git reset [commit]`
 
 
+# Review History
+
+`git log`
+
+ `git log --follow [file]`
+
+ `git show [commit]`
+
+
+ # Group Changes
+
+ `git branch`
+
+ `git checkout [branch-name]`
 
