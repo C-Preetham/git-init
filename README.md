@@ -87,7 +87,7 @@ Download & Install Git From: http://git-scm.com/downloads
  `git show [commit]`
 
 
- # Group Changes
+# Group Changes
 
  `git branch`
 
