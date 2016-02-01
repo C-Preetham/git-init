@@ -1,5 +1,5 @@
 
-# Git Chest 
+# Git 
 
 
 Download & Install Git From: http://git-scm.com/downloads
