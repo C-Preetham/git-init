@@ -7,9 +7,9 @@ Download & Install Git From: http://git-scm.com/downloads
 
 ### Configuring Git Settings (Intial Setup) 
 
-`git config —global user.email "you@example.com"`
+`git config --global user.email "you@example.com"`
 
-`git config —global user.name "your-name"`
+`git config --global user.name "your-name"`
 
 
 ### Checking Configuration
@@ -58,7 +58,7 @@ Download & Install Git From: http://git-scm.com/downloads
 
 ### Removing Cached Files from the Git Staging 
 
-`git rm -r —cached .`
+`git rm -r --cached .`
 
 
 ### Fetching and Pull
